@@ -4,7 +4,7 @@ This project is part of the freeCodeCamp Responsive Web Design Certification. It
 
 ## Live Version
 
-View the live version [here](https://ahmedmahmoudmmd.github.io/freecodecamp_project2/).
+View the live version [here](https://ahmedmahmoudmmd.github.io/freeCodeCamp-Certificationp1/).
 
 ## Features
 
